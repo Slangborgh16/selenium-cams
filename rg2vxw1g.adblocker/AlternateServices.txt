@@ -1,0 +1,5 @@
+https:www.google-analytics.com:443:.:^partitionKey=%28https%2Cmozilla.org%29:3	0	19316	https:www.google-analytics.com:443:www.google-analytics.com:443::n:1671578510:h3:y:1668986466:n:^partitionKey=%28https%2Cmozilla.org%29:|n:y:
+https:www.google.com:443:.:^firstPartyDomain=google-b-1-d.search.suggestions.mozilla:3	0	19316	https:www.google.com:443:www.google.com:443::n:1671578482:h3:y:1668986466:n:^firstPartyDomain=google-b-1-d.search.suggestions.mozilla:|n:y:
+https:filters.adavoid.org:443:.::3	0	19316	https:filters.adavoid.org:443:filters.adavoid.org:443::n:1669072911:h3:y:1668986466:n::|n:y:
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	0	19316	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1671578518:h3:y:1668986466:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:fonts.googleapis.com:443:.:^partitionKey=%28https%2Cadblockultimate.net%29:3	0	19316	https:fonts.googleapis.com:443:fonts.googleapis.com:443::n:1671578512:h3:y:1668986466:n:^partitionKey=%28https%2Cadblockultimate.net%29:|n:y:
